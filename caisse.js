@@ -7,3 +7,7 @@ const montant_cahier = prix_cahier * qte_cahier;
 const montant_stylo = prix_stylo * qte_stylo;
 const montant_total = montant_cahier + montant_stylo;
 let n = 1;
+console.log("Cahiers :", montant_cahier,"FCFA")
+console.log("Stylo :", montant_stylo,"FCFA")
+console.log("Total :", montant_total,"FCFA")
+console.log("Budget :", budget_client,"FCFA")
