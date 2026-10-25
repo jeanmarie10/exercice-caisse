@@ -16,3 +16,6 @@ if (montant_total <= budget_client) {
 } else {
     console.log("Budget insuffisant")
 } 
+while (n < 6) {
+    console.log("Achat numéro", n);
+    n++;}
